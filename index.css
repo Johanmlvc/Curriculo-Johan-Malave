@@ -117,20 +117,6 @@ footer{
 }
 
 @media screen and (max-width: 800px){
-        header{
-     flex-direction: column;  
-     height: 300px; 
-     width: 350px;
-     align-items: center;
-     text-align: center;
-    }
-    header p{
-        font-size: 20px;
-    }
-    header section{
-        padding: 0px;
-        margin: 0px; 
-    }
     main .secao2{
         margin: 0px;
         margin-top: 20px;
